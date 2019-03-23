@@ -1,0 +1,7 @@
+Initial population: 100
+Genes per organism: 100
+Vertices per gene: 3
+Mutationrate: 2
+Tournament size: 2
+Elite: 1
+Cutoff: 50
